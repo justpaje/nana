@@ -1,3 +1,22 @@
+int vt1=13;
+int vt2=12;
+int vt3=11;
+int vd1=10;
+int vd2=9;
+int vd3=8;
+int am1=7;
+int am2=6;
+int am3=5;
+int vp1=4;
+int vdp1=3;
+int vp2=2;
+int vdp2=2;
+int vp3=14;
+int vdp=15;
+
+
+
+
 void setup() {
   pinMode(13,OUTPUT);//VERMELHO TRÂNSITO 1
   pinMode(12,OUTPUT);//VERMELHO TRÂNSITO 2
